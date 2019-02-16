@@ -1,0 +1,122 @@
+
+body
+{
+	background-image: url("../background.jpg"); 
+}
+div
+{
+	max-width: 600px;
+	margin: auto;
+}
+#logo
+{
+	width:150px;
+	margin-top: 200px;
+}
+.public
+{
+	float: right;
+	margin-top: 215px;
+	width: 65px;
+	height: 16px; 
+}
+#tw
+{
+	float:left;
+}
+#vk
+{
+	float:right;
+}
+.icon_border
+{
+	width: 15px;
+	height: 15px;
+	border: 1px solid white; 
+	display:flex;
+	justify-content: center;
+	align-items: center; 
+}
+#logo_tw
+{
+	width: 11px;
+}
+#logo_fb
+{
+	width: 5px;
+}
+#logo_vk
+{
+	width: 14px;
+}
+p
+{
+	color:white;
+	font-size: 12px;
+	font-family: Arial;
+}
+#ident
+{
+	margin-top: 20px;
+	color:white;
+	font-size: 12px;
+	font-family: Arial;
+}
+
+.content
+{
+	margin-top: 70px;
+	border-left: 1px solid white;
+	padding-left: 20px;
+}
+.emeilin
+{
+	margin-top: 70px;
+}
+.cellar
+{
+	margin-top: 170px;
+}
+#language
+{
+	float:left;
+	margin-right: 10px;
+	margin-top: 4px;
+}
+a
+{
+	color: white;
+	font-size: 12px;
+	font-family: Arial;
+}
+a:hover
+{
+	color: white;
+	font-size: 12px;
+	font-family: Arial;
+	background-color: rgba(255, 255, 255, 0.5);
+}
+input[type=text] 
+{
+	width: 400px;
+	height: 20px;
+	background-color: rgba(76, 175, 80, 0);
+	color: white;
+	font-size: 10px;
+	font-family: Arial;
+	border: 1px solid white;
+	padding-left: 20px;
+}
+button
+{
+	width: 170px;
+	height: 24px;
+	font-size: 12px;
+}
+button:hover
+{
+	width: 170px;
+	height: 24px;
+	font-size: 12px;
+	background-color: rgba(76, 175, 80, 0);
+}
